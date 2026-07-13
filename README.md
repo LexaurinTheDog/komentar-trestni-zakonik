@@ -46,6 +46,11 @@ Komentář je rozdělen do **21 souborů** podle struktury zákona. Hlavní vstu
 
 Komentář **není autoritativní právní názor**. Před aplikací konkrétního ustanovení v praxi vždy ověřte aktuální znění zákona a recentní judikaturu.
 
+<!-- LOCAL-HLOUBKOVY-VYKLAD-LINK -->
+## Hloubkový výklad a aplikační mapa
+
+- [HLOUBKOVY-VYKLAD.md](HLOUBKOVY-VYKLAD.md) — třináctivrstvá předpisová syntéza, místní důkazní opora, kapitolová matice a autorský protokol úplného právního komentáře.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).

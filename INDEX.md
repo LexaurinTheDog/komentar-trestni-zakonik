@@ -98,3 +98,8 @@ Aktuální znění k **1. 1. 2026** (zdroj: lokální výtah z e-Sbírky, soubor
 - **Hotovo (iterace 19, 2026-05-18):** 19-cast2-hlava13-lidskost-mir-valka.md (§ 400–418) + 20-cast3-zaverecna.md (§ 419–421). Hlava XIII transponuje **Římský statut MTS**: **§ 400 genocidium** (úmysl zničit skupinu, 12—20 + výjimečný), **§ 401 útok proti lidskosti** (10 forem vč. apartheidu, sexuálního násilí, mučení), **§ 402 apartheid**. **§ 403 hnutí potlačující práva** (nacistická/komunistická), § 403a šíření díla s výjimkou pro vzdělávání/umění (§ 403b), sympatie k hnutí (§ 404), **§ 405 popírání genocidia** (holocaust denial). Mír: **§ 405a agrese** (NOVÝ — novela 130/2022, leadership crime), příprava útočné války (§ 406), podněcování (§ 407), styky ohrožující mír (§ 409), **§ 410 porušení mezinárodní sankce** (klíč po 2022, RF sankce, transpozice 2024/1226). Válečné: **§ 411 zakázané bojové prostředky** (chemické/biologické/jaderné, útok na civilisty), **§ 412 válečná krutost** (Ženevské úmluvy), **§ 413 perzekuce** vč. dětských vojáků, **§ 414 plenění**, zneužití znaků (§§ 415—416), parlamentář (§ 417), **§ 418 odpovědnost nadřízeného** (Command Responsibility). Část třetí: **§ 419 přechodné** (mírnější zákon), § 419a 18 EU směrnic, § 420 zrušení starého TZ 1961 + 25 dalších předpisů, § 421 účinnost **1. 1. 2010**. 🎉🎉🎉 **KOMENTÁŘ KE VŠEM 421 PARAGRAFŮM DOKONČEN. 🎉🎉🎉**
 
 > Tento soubor (INDEX.md) je živý — aktualizuje se s každou iterací.
+
+<!-- LOCAL-HLOUBKOVY-VYKLAD-LINK -->
+## Hloubkový výklad a aplikační mapa
+
+- [HLOUBKOVY-VYKLAD.md](HLOUBKOVY-VYKLAD.md) — třináctivrstvá předpisová syntéza, místní důkazní opora, kapitolová matice a autorský protokol úplného právního komentáře.
