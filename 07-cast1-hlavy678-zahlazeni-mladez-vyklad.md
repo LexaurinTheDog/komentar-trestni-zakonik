@@ -53,74 +53,6 @@ Pro **ztrátu čestných titulů** a **ztrátu vojenské hodnosti** se doba **ř
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=a4c3172c2b3ba6d1aaf1 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 105 — Podmínky zahlazení odsouzení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Soud zahladí odsouzení, vedl-li odsouzený po výkonu nebo prominutí trestu anebo po promlčení jeho výkonu řádný život nepřetržitě po dobu nejméně
->
-> - a) patnácti let, jde-li o odsouzení k výjimečnému trestu,
->
-> - b) deseti let, jde-li o odsouzení k trestu odnětí svobody převyšujícímu pět let,
->
-> - c) pěti let, jde-li o odsouzení k trestu odnětí svobody převyšujícímu jeden rok,
->
-> - d) tří let, jde-li o odsouzení k trestu odnětí svobody nepřevyšujícímu jeden rok nebo k trestu vyhoštění,
->
-> - e) jednoho roku, jde-li o odsouzení k trestu domácího vězení, k trestu propadnutí majetku, k trestu propadnutí věci, k trestu zákazu pobytu, k trestu zákazu vstupu na sportovní, kulturní a jiné společenské akce nebo k peněžitému trestu za zvlášť závažný zločin.
->
-> (2) Jde-li o odsouzení k ztrátě čestných titulů nebo vyznamenání nebo k ztrátě vojenské hodnosti, řídí se doba uvedená v odstavci 1 podle délky trestu odnětí svobody, vedle něhož byl uvedený trest uložen.
->
-> (3) Jestliže odsouzený prokázal po výkonu nebo prominutí trestu anebo promlčení jeho výkonu svým velmi dobrým chováním, že se napravil, může soud s přihlédnutím k zájmům chráněným trestním zákonem zahladit odsouzení na žádost odsouzeného nebo toho, kdo je oprávněn nabídnout záruku za dovršení nápravy odsouzeného, i před uplynutím doby uvedené v odstavci 1.
->
-> (4) Doba uvedená v odstavci 1 se v případě, že se u podmíněně propuštěného má za to, že trest byl vykonán dnem, kdy odsouzený byl podmíněně propuštěn, řídí délkou skutečného výkonu trestu; v případě, že trest byl zmírněn rozhodnutím prezidenta České republiky, řídí se délkou trestu takto zmírněného.
->
-> (5) Bylo-li pachateli uloženo více trestů vedle sebe, nelze odsouzení zahladit, pokud neuplyne doba pro zahlazení toho trestu, k jehož zahlazení tento zákon stanoví dobu nejdelší.
->
-> (6) Ustanovení odstavce 5 se užije přiměřeně též na případ, kdy pachateli bylo uloženo vedle sebe více trestů, u kterých může podle tohoto zákona nastat účinek, že se na pachatele hledí, jako by nebyl odsouzen.
->
-> (7) I v případě, že uplynula doba uvedená v odstavci 1, odsouzení nelze zahladit, nebylo-li dosud vykonáno nebo jinak ukončeno uložené ochranné opatření; toto ustanovení se přiměřeně použije i tam, kde [[trestní zákon|trestní zákon]] stanoví, že se na pachatele hledí, jako by nebyl odsouzen.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a4c3172c2b3ba6d1aaf1 -->
-
 ### § 106 — Účinky zahlazení
 
 > „Bylo-li odsouzení zahlazeno, hledí se na pachatele, jako by nebyl odsouzen."
@@ -136,52 +68,6 @@ Pro **ztrátu čestných titulů** a **ztrátu vojenské hodnosti** se doba **ř
 - Pro účely **mezinárodního trestního stíhání**, evropského zatýkacího rozkazu, **ECRIS** — fikce nemusí mít přeshraniční účinek.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=dd75a5c21eab3414205d generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 106 — Účinky zahlazení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Bylo-li odsouzení zahlazeno, hledí se na pachatele, jako by nebyl odsouzen.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=dd75a5c21eab3414205d -->
 
 ## HLAVA VII — Zvláštní ustanovení o některých pachatelích
 
@@ -201,54 +87,6 @@ Skutečnost, že pachatel jednal jako **člen organizované skupiny** (širší 
 Jinými slovy: může jít o **dvojí kvalifikaci** — pachatel je členem OZS A spáchá kvalifikovaný TČ jako člen organizované skupiny.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=1f62b732f83b5f313f85 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 107 — Pachatel trestného činu spáchaného ve prospěch organizované zločinecké skupiny
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Pachatelem trestného činu spáchaného ve prospěch organizované zločinecké skupiny ([[#§ 129|§ 129]]) je ten, kdo spáchal úmyslný trestný čin jako člen organizované zločinecké skupiny, nebo ten, kdo takový čin spáchal vědomě se členem organizované zločinecké skupiny anebo v úmyslu organizované zločinecké skupině napomáhat.
->
-> (2) Skutečnost, že pachatel se trestného činu dopustil jako člen organizované skupiny nebo ve spojení s organizovanou skupinou, nebrání tomu, aby za splnění podmínek stanovených tímto zákonem byl současně postižen jako pachatel trestného činu spáchaného ve prospěch organizované zločinecké skupiny.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 129
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=1f62b732f83b5f313f85 -->
 
 ### § 108 — Ukládání trestu OS pachateli TČ ve prospěch OZS
 
@@ -271,54 +109,6 @@ Jinými slovy: může jít o **dvojí kvalifikaci** — pachatel je členem OZS 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=8c99acff47c3f200deab generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 108 — Ukládání trestu odnětí svobody pachateli trestného činu spáchaného ve prospěch organizované zločinecké skupiny
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Horní hranice trestní sazby trestu odnětí svobody stanovené v trestním zákoně se u pachatele trestného činu spáchaného ve prospěch organizované zločinecké skupiny zvyšuje o jednu třetinu. Takovému pachateli soud uloží trest odnětí svobody v horní polovině takto stanovené trestní sazby odnětí svobody, nejsou-li zároveň splněny podmínky pro mimořádné snížení trestu odnětí svobody podle [[#§ 58|§ 58]].
->
-> (2) Horní hranice trestní sazby trestu odnětí svobody může po zvýšení podle odstavce 1 převyšovat dvacet let. Při ukládání výjimečného trestu odnětí svobody nad dvacet až do třiceti let nesmí horní hranice převyšovat třicet let.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 58
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=8c99acff47c3f200deab -->
-
 ### § 109 — Mladiství
 
 > „Trestní odpovědnost mladistvých a sankce jim ukládané upravuje zákon o soudnictví ve věcech mládeže. Pokud zákon o soudnictví ve věcech mládeže nestanoví jinak, postupuje se podle tohoto zákona."
@@ -335,52 +125,6 @@ Jinými slovy: může jít o **dvojí kvalifikaci** — pachatel je členem OZS 
 - **Subsidiarita TZ**: TZ se použije v rozsahu, v němž ZSVM nestanoví jinak.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=0486341b6a7d02ad70be generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 109 — Mladiství
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Trestní odpovědnost mladistvých a sankce jim ukládané upravuje [[zákon o soudnictví ve věcech mládeže|zákon o soudnictví ve věcech mládeže]]. Pokud [[zákon o soudnictví ve věcech mládeže|zákon o soudnictví ve věcech mládeže]] nestanoví jinak, postupuje se podle tohoto zákona.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0486341b6a7d02ad70be -->
 
 ## HLAVA VIII — Výkladová ustanovení
 
@@ -399,52 +143,6 @@ Tato definice je důležitá pro výklad § 12 odst. 1 („Jen trestní zákon v
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=833b356f6f4425114b03 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 110 — [[Trestní zákon|Trestní zákon]]
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Trestním zákonem se rozumí tento zákon a podle povahy věci i [[zákon o soudnictví ve věcech mládeže|zákon o soudnictví ve věcech mládeže]] a [[zákon o trestní odpovědnosti právnických osob|zákon o trestní odpovědnosti právnických osob]] a řízení proti nim.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=833b356f6f4425114b03 -->
-
 ### § 111 — K pojmu trestného činu
 
 > „Trestným činem se rozumí jen čin soudně trestný, a pokud z jednotlivého ustanovení trestního zákona nevyplývá něco jiného, též příprava k trestnému činu, pokus trestného činu, organizátorství, návod a pomoc."
@@ -462,52 +160,6 @@ Tato definice je důležitá pro výklad § 12 odst. 1 („Jen trestní zákon v
 Význam: pokud zvláštní část TČ stanoví např. „Kdo spáchá X, … se potrestá", rozumí se tím i pokus, příprava (u ZZZ) a účastenství.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=a24a648d299bc74686e9 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 111 — K pojmu trestného činu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Trestným činem se rozumí jen čin soudně trestný, a pokud z jednotlivého ustanovení trestního zákona nevyplývá něco jiného, též příprava k trestnému činu, pokus trestného činu, organizátorství, návod a pomoc.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a24a648d299bc74686e9 -->
 
 ### § 112 — Opomenutí
 
@@ -532,52 +184,6 @@ Význam: pokud zvláštní část TČ stanoví např. „Kdo spáchá X, … se 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=503c37f2374fb17e4ead generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 112 — Opomenutí
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Jednáním se rozumí i opomenutí takového konání, k němuž byl pachatel povinen podle jiného právního předpisu, úředního rozhodnutí nebo smlouvy, v důsledku dobrovolného převzetí povinnosti konat nebo vyplývala-li taková jeho zvláštní povinnost z jeho předchozího ohrožujícího jednání anebo k němuž byl z jiného důvodu podle okolností a svých poměrů povinen.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=503c37f2374fb17e4ead -->
-
 ### § 113 — K pojmu pachatele
 
 > „Pachatelem se rozumí, nevyplývá-li z jednotlivého ustanovení trestního zákona něco jiného, i spolupachatel a účastník."
@@ -590,52 +196,6 @@ Tam, kde zvláštní část mluví o „**pachateli**", rozumí se i:
 Klíčové pro výklad např. § 39 odst. 1 (přihlédnutí k pachateli) — vztahuje se i na spolupachatele a účastníky.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=622750f39d4763b341df generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 113 — K pojmu pachatele
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Pachatelem se rozumí, nevyplývá-li z jednotlivého ustanovení trestního zákona něco jiného, i spolupachatel a účastník.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=622750f39d4763b341df -->
 
 ### § 114 — Konkrétní a speciální subjekt
 
@@ -675,74 +235,6 @@ Rozumí se služba/povinnost osob uvedených v odst. 4.
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=a5420c9db7b054f77dca generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 114 — Konkrétní a speciální subjekt
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Jestliže k spáchání trestného činu [[trestní zákon|trestní zákon]] vyžaduje zvláštní vlastnost, způsobilost nebo postavení pachatele, může být pachatelem nebo spolupachatelem trestného činu pouze osoba, která má požadovanou vlastnost, způsobilost nebo postavení. Pachatelem nebo spolupachatelem trestného činu vojenského podle hlavy dvanácté zvláštní části tohoto zákona může být jen voják.
->
-> (2) Jestliže zákon stanoví, že pachatel musí být nositelem zvláštní vlastnosti, způsobilosti nebo postavení, postačí, že zvláštní vlastnost, způsobilost nebo postavení jsou dány u právnické osoby, jejímž jménem pachatel jedná. Tohoto ustanovení se užije i tehdy,
->
-> - a) jestliže k jednání pachatele došlo před vznikem právnické osoby,
->
-> - b) jestliže právnická osoba vznikla, ale soud rozhodl o neplatnosti právnické osoby, nebo
->
-> - c) je-li právní úkon, který měl založit oprávnění k jednání za právnickou osobu, neplatný nebo neúčinný.
->
-> (3) Organizátorem, návodcem nebo pomocníkem trestného činu uvedeného v odstavcích 1 a [[#§ 2|2]] může být i osoba, která nemá vlastnost, způsobilost nebo postavení tam vyžadované.
->
-> (4) Kde se v tomto zákoně mluví o vojáku, rozumí se jím
->
-> - a) voják v činné službě,
->
-> - b) voják mimo činnou službu, je-li ve služebním stejnokroji,
->
-> - c) příslušník bezpečnostního sboru u trestných činů neuposlechnutí rozkazu ([[#§ 375|§ 375]]), neuposlechnutí rozkazu z nedbalosti ([[#§ 376|§ 376]]), urážka mezi vojáky ([[#§ 378|§ 378]]), urážka mezi vojáky násilím nebo pohrůžkou násilí ([[#§ 379|§ 379]]), urážka vojáka stejné hodnosti násilím nebo pohrůžkou násilí ([[#§ 380|§ 380]]), násilí vůči nadřízenému ([[#§ 381|§ 381]]), porušení povinnosti strážní služby ([[#§ 389|§ 389]]), porušení povinnosti dozorčí nebo jiné služby ([[#§ 390|§ 390]]) a založení, podpora a propagace hnutí směřujícího k potlačení práv a svobod člověka podle § 403 odst. 2 písm. c), nebo
->
-> - d) válečný zajatec.
->
-> (5) Kde se v tomto zákoně mluví o vojenské službě nebo o vojenské povinnosti, rozumí se tím služba nebo povinnost osob uvedených v odstavci 4.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2, § 375, § 376, § 378, § 379, § 380, § 381, § 389, § 390, § 403
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a5420c9db7b054f77dca -->
-
 ### § 115 — Svémocné vzdálení
 Vojensko-právní pojem pro Hlavu XII. **Svémocně se vzdaluje** voják, který:
 - a) Nenastoupí v určeném čase k výkonu služby.
@@ -750,58 +242,6 @@ Vojensko-právní pojem pro Hlavu XII. **Svémocně se vzdaluje** voják, který
 - c) Je odloučen za bojové situace, a po pominutí příčiny se nepřihlásí (vč. návratu ze zajetí).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=c6ef298778e390da0c28 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 115 — Svémocné vzdálení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Svémocně se vzdaluje, kdo
->
-> - a) nenastoupí v určeném čase k výkonu služby,
->
-> - b) se vzdálí bez dovolení z výkonu služby,
->
-> - c) je odloučen za bojové situace od místa výkonu služby a po pominutí příčiny odloučení se nepřihlásí kterémukoli nadřízenému nebo jinému vojenskému útvaru, a to i v případě návratu ze zajetí nebo po osvobození ze zajetí.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c6ef298778e390da0c28 -->
 
 ### § 116 — Pokračování v trestném činu
 
@@ -827,52 +267,6 @@ Vojensko-právní pojem pro Hlavu XII. **Svémocně se vzdaluje** voják, který
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=edf6dd6b35be2bcd1775 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 116 — Pokračování v trestném činu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Pokračováním v trestném činu se rozumí takové jednání, jehož jednotlivé dílčí útoky vedené jednotným záměrem naplňují, byť i v souhrnu, skutkovou podstatu stejného trestného činu, jsou spojeny stejným nebo podobným způsobem provedení a blízkou souvislostí časovou a souvislostí v předmětu útoku.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=edf6dd6b35be2bcd1775 -->
-
 ### § 117 — Veřejné spáchání trestného činu
 
 #### Pojem „veřejně"
@@ -891,56 +285,6 @@ Vojensko-právní pojem pro Hlavu XII. **Svémocně se vzdaluje** voják, který
 Příspěvky na sociálních sítích, blozích, fórech splňují podmínku spáchání veřejně podle písm. a). Klíčové pro stíhání **hate speech** na internetu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=bffab41e597871dac2b1 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 117 — Veřejné spáchání trestného činu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Trestný čin je spáchán veřejně, jestliže je spáchán
->
-> - a) obsahem tiskoviny nebo rozšiřovaného spisu, filmem, rozhlasem, televizí, veřejně přístupnou počítačovou sítí nebo jiným obdobně účinným způsobem, nebo
->
-> - b) před nejméně třemi osobami současně přítomnými.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=bffab41e597871dac2b1 -->
 
 ### § 118 — Spáchání trestného činu se zbraní
 
@@ -965,52 +309,6 @@ Zbraní se rozumí **„cokoli, čím je možno učinit útok proti tělu důraz
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=70fd618679a7b6bf2725 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 118 — Spáchání trestného činu se zbraní
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Trestný čin je spáchán se zbraní, jestliže pachatel nebo s jeho vědomím některý ze spolupachatelů užije zbraně k útoku, k překonání nebo zamezení odporu anebo jestliže ji k tomu účelu má u sebe; zbraní se tu rozumí, pokud z jednotlivého ustanovení trestního zákona nevyplývá něco jiného, cokoli, čím je možno učinit útok proti tělu důraznějším.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=70fd618679a7b6bf2725 -->
-
 ### § 119 — Spáchání trestného činu násilím
 
 > „Trestný čin je spáchán násilím i tehdy, je-li spáchán na osobě, kterou pachatel uvedl do stavu bezbrannosti lstí nebo jiným podobným způsobem."
@@ -1026,52 +324,6 @@ Zejména pro § 185 (znásilnění) a § 175 (vydírání) — pachatel, který 
 (Pozn.: po novele č. 173/2024 Sb. byla u § 185 stanovena nová konstrukce „proti seznatelné vůli" — viz komentář ke zvláštní části.)
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=9665f71877acc3dcb4c4 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 119 — Spáchání trestného činu násilím
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Trestný čin je spáchán násilím i tehdy, je-li spáchán na osobě, kterou pachatel uvedl do stavu bezbrannosti lstí nebo jiným podobným způsobem.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=9665f71877acc3dcb4c4 -->
 
 ### § 119a — Spáchání trestného činu zneužitím bezbrannosti
 
@@ -1098,54 +350,6 @@ Klíčový institut pro **sexuální TČ**: pachatel, který zneužije ženy v o
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=4553049d231c98d4cb53 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 119a — Spáchání trestného činu zneužitím bezbrannosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Trestný čin je spáchán zneužitím bezbrannosti, jestliže pachatel využije toho, že jiná osoba je ve stavu, v němž není schopna utvářet nebo projevit svou vůli nebo je její schopnost utvářet nebo projevit svou vůli podstatně snížena z důvodu bezvědomí, spánku, ovlivnění návykovými látkami, nemoci, zdravotního postižení, duševní poruchy, silného ochromujícího stresu, nízkého nebo vysokého věku, překvapení nebo jiného obdobného důvodu.
->
-> (2) Za bezbranné z důvodu nízkého věku se vždy považuje dítě mladší dvanácti let.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4553049d231c98d4cb53 -->
-
 ### § 120 — Uvedení v omyl prostřednictvím technického zařízení
 
 #### Pojem
@@ -1163,52 +367,6 @@ Praktický příklad: phishing, který oklame **automatizovaný systém ověřen
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=17b141280cbb9f84bc1a generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 120 — Uvedení někoho v omyl a využití něčího omylu prostřednictvím technického zařízení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Uvést někoho v omyl či využít něčího omylu lze i provedením zásahu do dat uložených v počítačovém systému nebo na nosiči informací, zásahu do programového nebo technického vybavení počítačového systému nebo provedením jiné operace v počítačovém systému, zásahu do elektronického nebo jiného technického zařízení, včetně zásahu do předmětů sloužících k ovládání takového zařízení, anebo využitím takové operace či takového zásahu provedeného jiným.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=17b141280cbb9f84bc1a -->
-
 ### § 121 — Vloupání
 
 > „Vloupáním se rozumí vniknutí do uzavřeného prostoru lstí, nedovoleným překonáním uzamčení nebo překonáním jiné jistící překážky s použitím síly."
@@ -1222,52 +380,6 @@ Praktický příklad: phishing, který oklame **automatizovaný systém ověřen
 Klíčový kvalifikační znak u **krádeže** (§ 205 odst. 2 — krádež vloupáním → zostřená sazba).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=4b0b4715a3ecd217876e generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 121 — Vloupání
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Vloupáním se rozumí vniknutí do uzavřeného prostoru lstí, nedovoleným překonáním uzamčení nebo překonáním jiné jistící překážky s použitím síly.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=4b0b4715a3ecd217876e -->
 
 ### § 122 — Ublížení na zdraví a těžká újma na zdraví (klíčový paragraf)
 
@@ -1298,72 +410,6 @@ Klíčový kvalifikační znak u **krádeže** (§ 205 odst. 2 — krádež vlou
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=afd1e657ccd043f8dfe9 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 122 — Ublížení na zdraví a těžká újma na zdraví
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Ublížením na zdraví se rozumí takový stav záležející v poruše zdraví nebo jiném onemocnění, který porušením normálních tělesných nebo duševních funkcí znesnadňuje, nikoli jen po krátkou dobu, obvyklý způsob života poškozeného a který vyžaduje lékařského ošetření.
->
-> (2) Těžkou újmou na zdraví se rozumí jen vážná porucha zdraví nebo jiné vážné onemocnění. Za těchto podmínek je těžkou újmou na zdraví
->
-> - a) zmrzačení,
->
-> - b) ztráta nebo podstatné snížení pracovní způsobilosti,
->
-> - c) ochromení údu,
->
-> - d) ztráta nebo podstatné oslabení funkce smyslového ústrojí,
->
-> - e) poškození důležitého orgánu,
->
-> - f) zohyzdění,
->
-> - g) vyvolání potratu nebo usmrcení plodu,
->
-> - h) mučivé útrapy, nebo
->
-> - i) delší dobu trvající porucha zdraví.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=afd1e657ccd043f8dfe9 -->
-
 ### § 123 — Duševní porucha
 
 > „Duševní poruchou se rozumí mimo duševní poruchy vyplývající z duševní nemoci i hluboká porucha vědomí, mentální retardace, těžká asociální porucha osobnosti nebo jiná těžká duševní nebo sexuální odchylka."
@@ -1378,52 +424,6 @@ Pro účely § 26 (nepříčetnost), § 27 (zmenšená příčetnost), § 99 (OL
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=d0f10083d6c57ac14ccb generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 123 — Duševní porucha
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Duševní poruchou se rozumí mimo duševní poruchy vyplývající z duševní nemoci i hluboká porucha vědomí, mentální retardace, těžká asociální porucha osobnosti nebo jiná těžká duševní nebo sexuální odchylka.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d0f10083d6c57ac14ccb -->
-
 ### § 124 — Státem uložená a uznaná povinnost mlčenlivosti
 
 #### Pojem
@@ -1435,52 +435,6 @@ Pro účely § 26 (nepříčetnost), § 27 (zmenšená příčetnost), § 99 (OL
 Klíčové pro § 180 (neoprávněné nakládání s osobními údaji), § 182 (porušení tajemství dopravovaných zpráv), § 178 (porušení domovní svobody).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=e65a5612c3c4967f6a7d generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 124 — Státem uložená a uznaná povinnost mlčenlivosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Za státem uloženou nebo uznanou povinnost mlčenlivosti se považuje mlčenlivost, která je uložena nebo uznána jiným právním předpisem. Za státem uznanou povinnost mlčenlivosti se podle trestního zákona nepovažuje taková povinnost, jejíž rozsah není vymezen jiným právním předpisem, ale vyplývá z právního úkonu učiněného na základě jiného právního předpisu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e65a5612c3c4967f6a7d -->
 
 ### § 125 — Osoba blízká
 
@@ -1501,52 +455,6 @@ Klíčové pro:
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=cb9dd74bc2efa3a399b1 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 125 — Osoba blízká
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Osobou blízkou se rozumí příbuzný v pokolení přímém, osvojitel, osvojenec, sourozenec, manžel a partner; jiné osoby v poměru rodinném nebo obdobném se pokládají za osoby sobě navzájem blízké jen tehdy, kdyby újmu, kterou utrpěla jedna z nich, druhá důvodně pociťovala jako újmu vlastní.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=cb9dd74bc2efa3a399b1 -->
-
 ### § 126 — Dítě
 
 > „Dítětem se rozumí osoba mladší osmnácti let, pokud trestní zákon nestanoví jinak."
@@ -1560,52 +468,6 @@ Klíčové pro:
 **Mladistvý** (15—18 let v době spáchání) **je dítě**, ale s vlastní trestní odpovědností podle ZSVM.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=6c968b753bedf7fcc222 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 126 — Dítě
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Dítětem se rozumí osoba mladší osmnácti let, pokud [[trestní zákon|trestní zákon]] nestanoví jinak.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=6c968b753bedf7fcc222 -->
 
 ### § 127 — Úřední osoba (klíčový paragraf)
 
@@ -1636,76 +498,6 @@ Pro trestní odpovědnost / ochranu úřední osoby se vyžaduje **souvislost s 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=2d6a61a0b1bfacd4e9e6 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 127 — Úřední osoba
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Úřední osobou je
->
-> - a) soudce,
->
-> - b) státní zástupce,
->
-> - c) prezident České republiky, poslanec nebo senátor Parlamentu České republiky, člen vlády České republiky nebo jiná osoba zastávající funkci v jiném orgánu veřejné moci,
->
-> - d) člen zastupitelstva nebo odpovědný úředník územní samosprávy, orgánu státní správy nebo jiného orgánu veřejné moci,
->
-> - e) příslušník ozbrojených sil nebo bezpečnostního sboru nebo strážník obecní policie,
->
-> - f) soudní exekutor při výkonu exekuční činnosti a při činnostech vykonávaných z pověření soudu nebo státního zástupce,
->
-> - g) notář při provádění úkonů v řízení o dědictví jako soudní komisař,
->
-> - h) finanční arbitr a jeho zástupce,
->
-> - i) fyzická osoba, která byla ustanovena lesní stráží, stráží přírody, mysliveckou stráží nebo rybářskou stráží,
->
-> pokud plní úkoly státu nebo společnosti a používá při tom svěřené pravomoci pro plnění těchto úkolů.
->
-> (2) K trestní odpovědnosti a ochraně úřední osoby se podle jednotlivých ustanovení trestního zákona vyžaduje, aby trestný čin byl spáchán v souvislosti s její pravomocí a odpovědností.
->
-> (3) Úřední osoba cizího státu nebo mezinárodní organizace se za podmínek uvedených v odstavcích 1 a [[#§ 2|2]] považuje za úřední osobu podle trestního zákona, pokud tak stanoví mezinárodní smlouva nebo pokud se souhlasem orgánů České republiky působí na jejím území; tento souhlas se nevyžaduje, jde-li o úřední osobu mezinárodního trestního soudu, mezinárodního trestního tribunálu, popřípadě obdobného mezinárodního soudního orgánu, které splňují alespoň jednu z podmínek uvedených v § 145 odst. 1 písm. a) zákona o mezinárodní justiční spolupráci ve věcech trestních.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2, § 145
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2d6a61a0b1bfacd4e9e6 -->
-
 ### § 127a — Státní zástupce
 
 #### Rozšíření pojmu o EPPO
@@ -1717,52 +509,6 @@ Po vstupu ČR do **Úřadu evropského veřejného žalobce (EPPO)** (Nařízen�
 V rozsahu jejich působnosti stanovené unijním právem.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=906833cad03914172b72 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 127a — Státní zástupce
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Státním zástupcem se rozumí i evropský pověřený žalobce, evropský žalobce a evropský nejvyšší žalobce v rozsahu jejich působnosti stanovené přímo použitelným předpisem Evropské unie upravujícím zřízení Úřadu evropského veřejného žalobce.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=906833cad03914172b72 -->
 
 ### § 128 — Insolvenční správce a insolvenční řízení
 
@@ -1780,54 +526,6 @@ Zahrnuje i historické **konkursní a vyrovnací řízení**.
 Klíčové pro § 225 (porušení povinnosti v insolvenčním řízení) a § 226 (porušení povinnosti při poskytování informací v insolvenčním řízení).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=8a153f358592b3e64fff generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 128 — Insolvenční správce a insolvenční řízení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Insolvenčním správcem se rozumí i předběžný insolvenční správce, zástupce insolvenčního správce, oddělený insolvenční správce, zvláštní insolvenční správce; postavení insolvenčního správce má i správce konkursní podstaty, předběžný správce konkursní podstaty, zvláštní správce konkursní podstaty, zástupce správce konkursní podstaty a vyrovnací správce. Insolvenčním správcem se rovněž rozumí osoba, kterou podle jiného právního předpisu insolvenční správce určil, aby jej zastupovala při výkonu jeho pravomoci stanovené jiným právním předpisem na území jiného státu, dále zahraniční insolvenční správce, zahraniční insolvenční správce pojišťovny nebo zajišťovny a osoba, kterou podle jiného právního předpisu zahraniční insolvenční správce nebo zahraniční insolvenční správce pojišťovny nebo zajišťovny jmenoval, aby mu pomáhala nebo jej zastupovala.
->
-> (2) Insolvenčním řízením se rozumí i konkursní a vyrovnací řízení.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=8a153f358592b3e64fff -->
 
 ### § 129 — Organizovaná zločinecká skupina (OZS)
 
@@ -1855,52 +553,6 @@ Klíčové pro § 225 (porušení povinnosti v insolvenčním řízení) a § 22
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=1181bbdcf1a34c2ebbb0 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 129 — Organizovaná zločinecká skupina
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Organizovaná zločinecká skupina je společenstvím nejméně tří trestně odpovědných osob s vnitřní organizační strukturou, s rozdělením funkcí a dělbou činností, které je zaměřeno na soustavné páchání úmyslné trestné činnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=1181bbdcf1a34c2ebbb0 -->
-
 ### § 129a — Teroristická skupina
 
 #### Pojem (odst. 1)
@@ -1914,54 +566,6 @@ Klíčové pro § 225 (porušení povinnosti v insolvenčním řízení) a § 22
 Naplnění znaků **teroristické skupiny nevylučuje** použití ustanovení o organizované skupině/OZS. Ovšem § 361 (účast na OZS) **se nepoužije** — místo toho § 312a (účast na teroristické skupině).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=43ce099b62dea05376ad generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 129a — Teroristická skupina
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Teroristická skupina je společenstvím nejméně tří trestně odpovědných osob, které má trvalejší charakter, je v něm provedena dělba činností mezi jeho jednotlivé členy, jeho činnost se vyznačuje plánovitostí a koordinovaností a je zaměřené na páchání trestného činu vlastizrady spáchané formou teroristického útoku nebo teroru ([[#§ 309|§ 309]]), trestného činu teroristického útoku ([[#§ 311|§ 311]]) nebo trestného činu teroru ([[#§ 312|§ 312]]) (dále jen „teroristický trestný čin“).
->
-> (2) Naplnění znaků teroristické skupiny nevylučuje použití ustanovení tohoto a jiných zákonů o organizované skupině a organizované zločinecké skupině; ustanovení [[#§ 361|§ 361]] se nepoužije.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 309, § 311, § 312, § 361
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=43ce099b62dea05376ad -->
 
 ### § 129b — Mezinárodní sankce
 
@@ -1983,52 +587,6 @@ Klíčové pro **§ 410** (porušení mezinárodní sankce) — relevantní zejm
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=b101afe0c01dff108879 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 129b — Mezinárodní sankce
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Mezinárodní sankcí se rozumí příkaz, zákaz nebo omezení stanovené za účelem udržení nebo obnovení mezinárodního míru a bezpečnosti, boje proti terorismu, dodržování mezinárodního práva, ochrany lidských práv a svobod a podpory demokracie a právního státu, k jejichž dodržování je Česká republika zavázána na základě členství v Organizaci spojených národů nebo v Evropské unii anebo které zavedla podle [[sankčního zákona|sankčního zákona]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b101afe0c01dff108879 -->
-
 ### § 130 — Návyková látka
 
 #### Pojem (odst. 1)
@@ -2040,54 +598,6 @@ Klíčové pro **§ 410** (porušení mezinárodní sankce) — relevantní zejm
 - **Zařazené psychoaktivní látky** (NPS — *new psychoactive substances*).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=ccd38b0229de4660eff7 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 130 — Návyková látka
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Návykovou látkou se rozumí alkohol, omamné látky, psychotropní látky a ostatní látky způsobilé nepříznivě ovlivnit psychiku člověka nebo jeho ovládací nebo rozpoznávací schopnosti nebo sociální chování.
->
-> (2) Pro účely tohoto zákona se za návykové látky považují také psychomodulační látky a zařazené psychoaktivní látky.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=ccd38b0229de4660eff7 -->
 
 ### § 131 — Veřejná listina
 
@@ -2103,54 +613,6 @@ Ochrana podle § 348 (padělání veřejné listiny) se vztahuje i na **veřejn�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=2af6861f16129ab68741 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 131 — Veřejná listina
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Veřejnou listinou se rozumí listina vydaná soudem České republiky, jiným orgánem veřejné moci nebo jiným subjektem k tomu pověřeným či zmocněným jiným právním předpisem v mezích jeho pravomoci, potvrzující, že jde o nařízení nebo prohlášení orgánu nebo jiného subjektu, který listinu vydal, anebo osvědčující některou právně významnou skutečnost. Veřejnou listinou je i listina, kterou prohlašuje za veřejnou jiný právní předpis.
->
-> (2) Ochrana podle [[#§ 348|§ 348]] se poskytuje i veřejné listině vydané orgánem veřejné moci nebo jiným k tomu zmocněným subjektem cizího státu nebo orgánem mezinárodní organizace, pokud má podle mezinárodní smlouvy účinky na území České republiky.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 348
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2af6861f16129ab68741 -->
-
 ### § 132 — Obecně prospěšné zařízení
 
 #### Demonstrativní výčet
@@ -2160,52 +622,6 @@ Zařízení pro ochranu před požárem, povodní, leteckým útokem; **energeti
 Klíč pro § 276—277 (poškození/ohrožení obecně prospěšného zařízení).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=0406ee08a65864827a51 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 132 — Obecně prospěšné zařízení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Obecně prospěšným zařízením se rozumí veřejné ochranné zařízení proti požáru, povodni nebo jiné živelní pohromě, obranné nebo ochranné zařízení proti leteckým a jiným podobným útokům nebo jejich následkům, ochranné zařízení proti úniku znečišťujících látek, zařízení energetické nebo vodárenské, podmořský kabel nebo podmořské potrubí, zařízení a sítě elektronických komunikací a koncová telekomunikační a rádiová zařízení, zařízení držitele poštovní licence, zařízení pro veřejnou dopravu, včetně součástí dráhy a drážních vozidel ve veřejné drážní dopravě a svislých zákazových nebo příkazových dopravních značek a dopravních značek upravujících přednost.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0406ee08a65864827a51 -->
 
 ### § 133 — Obydlí
 
@@ -2220,52 +636,6 @@ Klíčové pro § 178 (porušení domovní svobody) a § 219 (poškození cizí 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=a1f4e45e394ba357d89a generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 133 — Obydlí
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Obydlím se rozumí dům, byt nebo jiná prostora sloužící k bydlení a příslušenství k nim náležející.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=a1f4e45e394ba357d89a -->
-
 ### § 134 — Věc
 
 > „Věcí se rozumí i ovladatelná přírodní síla. Ustanovení o věcech se vztahují i na živá zvířata a zpracované oddělené části lidského těla, nevyplývá-li z jednotlivých ustanovení trestního zákona něco jiného."
@@ -2277,52 +647,6 @@ Klíčové pro § 178 (porušení domovní svobody) a § 219 (poškození cizí 
 - **Zpracované oddělené části lidského těla** (transplantáty, vlasy, prsten z lidské kosti — pro účely TČ proti majetku).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=c606c1dc3093cb79f2b0 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 134 — Věc
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Věcí se rozumí i ovladatelná přírodní síla. Ustanovení o věcech se vztahují i na živá zvířata a zpracované oddělené části lidského těla, nevyplývá-li z jednotlivých ustanovení trestního zákona něco jiného.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c606c1dc3093cb79f2b0 -->
 
 ### § 135 — Věc náležející pachateli
 
@@ -2337,104 +661,12 @@ Důležité pro § 66 (propadnutí majetku), § 70 (propadnutí věci), § 101�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=0733ca70b786397ee751 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 135 — Věc náležející pachateli
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Věc náleží pachateli, jestliže ji v době rozhodnutí o ní vlastní, je součástí jeho majetku nebo s ní fakticky jako vlastník nakládá, aniž je oprávněný vlastník nebo držitel takové věci znám.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0733ca70b786397ee751 -->
-
 ### § 135a — Nástroj trestné činnosti
 **Nástroj** = věc určená/užitá ke spáchání TČ, vč. plodů a užitků.
 
 Klíč pro § 70 (propadnutí věci jako nástroje).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=0d26eaf442dba0c1377b generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 135a — Nástroj trestné činnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Nástrojem trestné činnosti se rozumí věc, která byla určena nebo užita ke spáchání trestného činu, včetně plodů a užitků.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0d26eaf442dba0c1377b -->
 
 ### § 135b — Výnos z trestné činnosti
 
@@ -2453,112 +685,10 @@ Klíč pro § 70 (propadnutí věci), § 101—102a (zabrání).
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=e1b21ff00c085667d9e0 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 135b — Výnos z trestné činnosti
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Výnosem z trestné činnosti se rozumí jakákoli ekonomická výhoda pocházející z trestného činu.
->
-> (2) Bezprostředním výnosem z trestné činnosti se rozumí věc, která byla získána trestným činem nebo jako odměna za něj, včetně plodů a užitků.
->
-> (3) Zprostředkovaným výnosem z trestné činnosti se rozumí věc, včetně plodů a užitků,
->
-> - a) která byla, byť jen zčásti, nabyta za věc tvořící bezprostřední výnos z trestné činnosti,
->
-> - b) ve kterou byla věc tvořící bezprostřední výnos z trestné činnosti, byť jen zčásti, přeměněna, nebo
->
-> - c) k jejímuž zhodnocení došlo, byť jen zčásti, prostřednictvím věci tvořící bezprostřední výnos z trestné činnosti.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e1b21ff00c085667d9e0 -->
-
 ### § 135c — Předmět mezinárodní sankce
 Věc, na kterou se vztahuje **mezinárodní sankce** (§ 129b), ve vztahu k níž byl spáchán TČ porušení mezinárodní sankce (§ 410) nebo z nedbalosti (§ 410a).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=08701240794fb0cc1a57 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 135c — Předmět mezinárodní sankce
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Předmětem mezinárodní sankce se rozumí věc, na kterou se vztahuje mezinárodní sankce, ve vztahu k níž byl spáchán trestný čin porušení mezinárodní sankce ([[#§ 410|§ 410]]) nebo porušení mezinárodní sankce z nedbalosti ([[#§ 410a|§ 410a]]) anebo čin jinak trestný, který naplňuje znaky skutkové podstaty těchto trestných činů.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 410, § 410a
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=08701240794fb0cc1a57 -->
 
 ### § 136 — Spisy
 **Spisy** = datové, zvukové a obrazové záznamy, vyobrazení a jiná znázornění.
@@ -2567,104 +697,12 @@ Klíč pro § 103 (zabrání spisů a zařízení).
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=b769d4b59d501a4e0f86 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 136 — Spisy
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Spisy se rozumí datové, zvukové a obrazové záznamy, vyobrazení a jiná znázornění, nevyplývá-li z jednotlivých ustanovení trestního zákona něco jiného.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b769d4b59d501a4e0f86 -->
-
 ### § 136a — Počítačový systém
 **Počítačový systém** = zařízení/skupina propojených zařízení, kde jedno/více provádí **automatické zpracování dat** na základě programu. Zahrnuje i **data** uložená/zpracovávaná/přenášená.
 
 Klíč pro **kybernetické TČ** (§§ 230, 231, 234).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=c05ff9854563a426bf87 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 136a — Počítačový systém
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Počítačovým systémem se rozumí zařízení anebo skupina vzájemně propojených nebo přidružených zařízení, z nichž jedno nebo více provádí na základě programu automatické zpracování dat. Počítačovým systémem se rozumí i data uložená, zpracovaná, opětovně vyhledaná nebo přenesená tímto zařízením anebo skupinou zařízení za účelem jeho nebo jejich provozu, použití, ochrany a údržby.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c05ff9854563a426bf87 -->
 
 ### § 137 — Stanovení výše škody
 
@@ -2679,52 +717,6 @@ Klíč pro **kybernetické TČ** (§§ 230, 231, 234).
 Klíčové pro určení škody u majetkových TČ (§§ 205—232) → určení sazby podle § 138.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=e4280cbd82466ba717a5 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 137 — Stanovení výše škody
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Při stanovení výše škody se vychází z ceny, za kterou se věc, která byla předmětem útoku, v době a v místě činu obvykle prodává. Nelze-li takto výši škody zjistit, vychází se z účelně vynaložených nákladů na obstarání stejné nebo obdobné věci nebo uvedení věci v předešlý stav.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=e4280cbd82466ba717a5 -->
 
 ### § 138 — Hranice výše škody (klíčový paragraf!)
 
@@ -2754,64 +746,6 @@ Hranice byly přepočteny novelou č. 333/2020 Sb. — dříve byly nižší (od
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=55d05496424fe2d228ef generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 138 — Hranice výše škody, prospěchu, nákladů k odstranění poškození životního prostředí a hodnoty věci
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> (1) Pro účely tohoto zákona se rozumí
->
-> - a) škodou nikoli nepatrnou škoda dosahující částky nejméně 10 000 Kč,
->
-> - b) škodou nikoli malou škoda dosahující částky nejméně 50 000 Kč,
->
-> - c) větší škodou škoda dosahující částky nejméně 100 000 Kč,
->
-> - d) značnou škodou škoda dosahující částky nejméně 1 000 000 Kč a
->
-> - e) škodou velkého rozsahu škoda dosahující částky nejméně 10 000 000 Kč.
->
-> (2) Částek uvedených v odstavci 1 se užije obdobně pro určení výše prospěchu, nákladů k odstranění následků poškození životního prostředí a hodnoty věci.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=55d05496424fe2d228ef -->
-
 ### § 139 — Počítání času
 
 > „Kde tento zákon spojuje s uplynutím určité doby nějaký účinek, nezapočítává se do ní den, kdy nastala událost určující její začátek."
@@ -2820,52 +754,6 @@ Hranice byly přepočteny novelou č. 333/2020 Sb. — dříve byly nižší (od
 Standardní právní pravidlo — den události se **nepočítá** do doby. Tj. lhůta 3 let od právní moci rozsudku z 1. 5. 2024 končí 1. 5. 2027 (ne 30. 4. 2027).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=519b1e2f6063c695be4e generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
-#### Revizní doplnění k § 139 — Počítání času
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
-
-##### Znění ustanovení
-
-> Kde tento zákon spojuje s uplynutím určité doby nějaký účinek, nezapočítává se do ní den, kdy nastala událost určující její začátek.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=519b1e2f6063c695be4e -->
 
 ## Shrnutí Hlav VI + VII + VIII
 
