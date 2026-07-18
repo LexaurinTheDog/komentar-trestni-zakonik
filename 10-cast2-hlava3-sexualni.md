@@ -78,6 +78,81 @@ Viz § 119a TZ — viz komentář v souboru 07. Bezbranný je:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=87b3d24667cf4e3342d9 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 185 — Znásilnění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Kdo s jiným proti jeho seznatelné vůli vykoná soulož nebo jiný pohlavní styk provedený způsobem srovnatelným se souloží,
+>
+> kdo jiného donutí k souloži nebo jinému pohlavnímu styku provedenému způsobem srovnatelným se souloží s jinou osobou, nebo
+>
+> kdo k takovému činu zneužije jeho bezbrannosti,
+> bude potrestán odnětím svobody na dvě léta až deset let.
+>
+> (2) Odnětím svobody na tři léta až dvanáct let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) na dítěti,
+>
+> - b) na těhotné ženě nebo takovým činem způsobí těhotenství ženy,
+>
+> - c) na jiném pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob,
+>
+> - d) s další osobou, nebo
+>
+> - e) se zbraní.
+>
+> (3) Odnětím svobody na pět až patnáct let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 na dítěti mladším patnácti let,
+>
+> - b) spáchá-li takový čin na osobě omezené na osobní svobodě ve věznici nebo ústavu pro výkon zabezpečovací detence nebo ze zákonného důvodu umístěné ve zdravotnickém zařízení, školském zařízení pro výkon ústavní nebo ochranné výchovy nebo pro preventivně výchovnou péči anebo v jiném místě, kde je omezována její osobní svoboda, nebo
+>
+> - c) způsobí-li takovým činem těžkou újmu na zdraví.
+>
+> (4) Odnětím svobody na deset až osmnáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt.
+>
+> (5) Příprava je trestná.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=87b3d24667cf4e3342d9 -->
+
 ## § 185a — Sexuální útok (nová SP — novela 173/2024)
 
 ### Pojem (odst. 1)
@@ -107,6 +182,79 @@ Klíčové: **závažnost obojího je různá**, ale obě SP chrání **stejný 
 ### Příprava trestná (odst. 5)
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=093a33e36d35127b568f generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 185a — Sexuální útok
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Kdo s jiným proti jeho seznatelné vůli vykoná jiný pohlavní styk než uvedený v [[#§ 185|§ 185]],
+>
+> kdo jiného donutí k jinému pohlavnímu styku než uvedenému v [[#§ 185|§ 185]] s jinou osobou, pohlavnímu sebeukájení, obnažování nebo jinému srovnatelnému chování, nebo
+>
+> kdo k takovému činu nebo chování zneužije jeho bezbrannosti,
+> bude potrestán odnětím svobody až na pět let.
+>
+> (2) Odnětím svobody na dvě léta až osm let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) na dítěti,
+>
+> - b) na jiném pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob,
+>
+> - c) s další osobou, nebo
+>
+> - d) se zbraní.
+>
+> (3) Odnětím svobody na tři léta až dvanáct let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 na dítěti mladším patnácti let,
+>
+> - b) spáchá-li takový čin na osobě omezené na osobní svobodě ve věznici nebo ústavu pro výkon zabezpečovací detence nebo ze zákonného důvodu umístěné ve zdravotnickém zařízení, školském zařízení pro výkon ústavní nebo ochranné výchovy nebo pro preventivně výchovnou péči anebo v jiném místě, kde je omezována její osobní svoboda, nebo
+>
+> - c) způsobí-li takovým činem těžkou újmu na zdraví.
+>
+> (4) Odnětím svobody na deset až šestnáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt.
+>
+> (5) Příprava je trestná.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 185
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=093a33e36d35127b568f -->
 
 ## § 186 — Sexuální nátlak (přeformulován novelou 173/2024)
 
@@ -142,6 +290,84 @@ Postupné zostřování:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a2fe61fef2fa4f1a44e1 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 186 — Sexuální nátlak
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Kdo přiměje jiného k pohlavnímu styku, pohlavnímu sebeukájení, obnažování nebo jinému srovnatelnému chování zneužívaje jeho tísně, závislosti nebo svého postavení a z něho vyplývající důvěryhodnosti nebo vlivu, bude potrestán odnětím svobody až na čtyři léta nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na jeden rok až pět let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) na dítěti,
+>
+> - b) na jiném pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob, nebo
+>
+> - c) s další osobou.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 souloží nebo jiným pohlavním stykem provedeným způsobem srovnatelným se souloží.
+>
+> (4) Odnětím svobody na tři léta až deset let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) na dítěti mladším patnácti let,
+>
+> - b) na osobě omezené na osobní svobodě ve věznici nebo ústavu pro výkon zabezpečovací detence nebo ze zákonného důvodu umístěné ve zdravotnickém zařízení, školském zařízení pro výkon ústavní nebo ochranné výchovy nebo pro preventivně výchovnou péči anebo v jiném místě, kde je omezována její osobní svoboda,
+>
+> - c) souloží nebo jiným pohlavním stykem provedeným způsobem srovnatelným se souloží na těhotné ženě nebo takovým činem způsobí těhotenství ženy, nebo
+>
+> - d) souloží nebo jiným pohlavním stykem provedeným způsobem srovnatelným se souloží na jiném pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob.
+>
+> (5) Odnětím svobody na pět až dvanáct let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 souloží nebo jiným pohlavním stykem provedeným způsobem srovnatelným se souloží na dítěti mladším patnácti let,
+>
+> - b) spáchá-li takový čin souloží nebo jiným pohlavním stykem provedeným způsobem srovnatelným se souloží na osobě omezené na osobní svobodě ve věznici nebo ústavu pro výkon zabezpečovací detence nebo ze zákonného důvodu umístěné ve zdravotnickém zařízení, školském zařízení pro výkon ústavní nebo ochranné výchovy nebo pro preventivně výchovnou péči anebo v jiném místě, kde je omezována její osobní svoboda, nebo
+>
+> - c) způsobí-li takovým činem těžkou újmu na zdraví.
+>
+> (6) Odnětím svobody na deset až šestnáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt.
+>
+> (7) Příprava je trestná.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a2fe61fef2fa4f1a44e1 -->
+
 ## § 187 — Pohlavní zneužití
 
 ### Pojem
@@ -165,6 +391,58 @@ Sazba: **1—8 let**.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d28bc374732a3da7b64b generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 187 — Pohlavní zneužití
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Kdo vykoná soulož s dítětem mladším patnácti let nebo kdo je jiným způsobem pohlavně zneužije, bude potrestán odnětím svobody na jeden rok až osm let.
+>
+> (2) Odnětím svobody na pět až dvanáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví.
+>
+> (3) Odnětím svobody na deset až šestnáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt.
+>
+> (4) Příprava je trestná.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d28bc374732a3da7b64b -->
+
 ## § 188 — Soulož mezi příbuznými (incest)
 
 ### Pojem
@@ -184,6 +462,52 @@ Trestně odpovědný **oba účastníci** — TZ nerozlišuje aktivního/pasivn�
 Pokud byla soulož bez souhlasu → § 185 + § 188 v souběhu. Pokud na dítěti pod 15 → § 187 + § 188.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=84fd44af564e4d1c8ca3 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 188 — Soulož mezi příbuznými
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> Kdo vykoná soulož s příbuzným v pokolení přímém nebo se sourozencem, bude potrestán odnětím svobody až na tři léta.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=84fd44af564e4d1c8ca3 -->
 
 ## § 189 — Kuplířství
 
@@ -211,6 +535,64 @@ V praxi často **kumulace** obou TČ u organizovaných sítí.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=605cf5169d65730464b9 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 189 — Kuplířství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Kdo jiného přiměje, zjedná, najme, zláká nebo svede k provozování prostituce, nebo
+> kdo kořistí z prostituce provozované jiným,
+> bude potrestán odnětím svobody na šest měsíců až na čtyři léta, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Odnětím svobody na dvě léta až osm let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) v úmyslu získat pro sebe nebo pro jiného značný prospěch, nebo
+>
+> - b) jako člen organizované skupiny.
+>
+> (3) Odnětím svobody na pět až dvanáct let nebo propadnutím majetku bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví.
+>
+> (4) Odnětím svobody na osm až patnáct let nebo propadnutím majetku bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=605cf5169d65730464b9 -->
+
 ## § 190 — Prostituce ohrožující mravní vývoj dětí
 
 ### Pojem
@@ -224,6 +606,60 @@ V praxi často **kumulace** obou TČ u organizovaných sítí.
 - Některé obce řeší **regulačními vyhláškami** (např. Vesnice na trase z Drážďan do Prahy).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b0cfce9a160f3042a456 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 190 — Prostituce ohrožující mravní vývoj dětí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Kdo provozuje prostituci v blízkosti školy, školského nebo jiného obdobného zařízení nebo místa, které je vyhrazeno nebo určeno pro pobyt nebo návštěvu dětí, bude potrestán odnětím svobody až na dvě léta.
+>
+> (2) Kdo organizuje, střeží nebo jiným způsobem zajišťuje provozování prostituce v blízkosti školy, školského nebo jiného obdobného zařízení nebo místa, které je vyhrazeno nebo určeno pro pobyt nebo návštěvu dětí, bude potrestán odnětím svobody až na tři léta, zákazem činnosti nebo propadnutím věci.
+>
+> (3) Odnětím svobody na šest měsíců až pět let nebo propadnutím majetku bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]]
+>
+> - a) nejméně na dvou takových místech, nebo
+>
+> - b) opětovně.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b0cfce9a160f3042a456 -->
 
 ## § 191 — Šíření pornografie
 
@@ -251,6 +687,74 @@ Sazba: až 2 roky.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=eefe70049a33d348fff6 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 191 — Šíření pornografie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Kdo vyrobí, doveze, vyveze, proveze, nabídne, učiní veřejně přístupným, zprostředkuje, uvede do oběhu, prodá nebo jinak jinému opatří fotografické, filmové, počítačové, elektronické nebo jiné pornografické dílo, v němž se projevuje násilí či neúcta k člověku, nebo které popisuje, zobrazuje nebo jinak znázorňuje pohlavní styk se zvířetem, bude potrestán odnětím svobody až na jeden rok, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Kdo písemné, fotografické, filmové, počítačové, elektronické nebo jiné pornografické dílo
+>
+> - a) nabízí, přenechává nebo zpřístupňuje dítěti, nebo
+>
+> - b) na místě, které je dětem přístupné, vystavuje nebo jinak zpřístupňuje,
+>
+> bude potrestán odnětím svobody až na dvě léta, zákazem činnosti nebo propadnutím věci.
+>
+> (3) Odnětím svobody na šest měsíců až tři léta bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]]
+>
+> - a) jako člen organizované skupiny,
+>
+> - b) tiskem, filmem, rozhlasem, televizí, veřejně přístupnou počítačovou sítí nebo jiným obdobně účinným způsobem, nebo
+>
+> - c) v úmyslu získat pro sebe nebo pro jiného značný prospěch.
+>
+> (4) Odnětím svobody na jeden rok až pět let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]]
+>
+> - a) jako člen organizované skupiny působící ve více státech, nebo
+>
+> - b) v úmyslu získat pro sebe nebo pro jiného prospěch velkého rozsahu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eefe70049a33d348fff6 -->
+
 ## § 191a — Zneužití identity k výrobě pornografie (revenge porn + deepfake porn)
 
 **Nová SP zavedená novelou č. 333/2020 Sb. a rozšířená novelou 173/2024 Sb.**
@@ -272,6 +776,70 @@ Sazba: až 2 roky + zákaz činnosti + propadnutí věci.
 - **§ 191a** = deepfake **pornografický** specificky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6fd2271a02dfdab4322e generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 191a — Zneužití identity k výrobě pornografie a její šíření
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Kdo vyrobí, doveze, vyveze, proveze, nabídne, učiní veřejně přístupným, zprostředkuje, uvede do oběhu, prodá nebo jinak jinému opatří fotografické, filmové, počítačové, elektronické nebo jiné pornografické dílo, které zobrazuje nebo jinak využívá osobu, o které ví, že k takovému zobrazení nebo využití nedala souhlas, bude potrestán odnětím svobody až na dvě léta, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Odnětím svobody na šest měsíců až tři léta bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 jinému značnou újmu,
+>
+> - b) spáchá-li takový čin jako člen organizované skupiny,
+>
+> - c) spáchá-li takový čin tiskem, filmem, rozhlasem, televizí, veřejně přístupnou počítačovou sítí nebo jiným obdobně účinným způsobem, nebo
+>
+> - d) spáchá-li takový čin v úmyslu získat pro sebe nebo pro jiného značný prospěch.
+>
+> (3) Odnětím svobody na jeden rok až pět let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 jinému újmu velkého rozsahu,
+>
+> - b) spáchá-li takový čin jako člen organizované skupiny působící ve více státech, nebo
+>
+> - c) spáchá-li takový čin v úmyslu získat pro sebe nebo pro jiného prospěch velkého rozsahu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6fd2271a02dfdab4322e -->
 
 ## § 192 — Výroba a nakládání s dětskou pornografií (zero tolerance)
 
@@ -298,6 +866,72 @@ Transponuje **Lanzarotskou úmluvu RE (2007)** a **Směrnici 2011/93/EU** o boji
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=43e4d700f7f7288964ae generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 192 — Výroba a jiné nakládání s dětskou pornografií
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Kdo přechovává fotografické, filmové, počítačové, elektronické nebo jiné pornografické dílo, které zobrazuje nebo jinak využívá dítě nebo osobu, jež se jeví být dítětem, bude potrestán odnětím svobody až na dva roky.
+>
+> (2) Stejně bude potrestán ten, kdo prostřednictvím informační nebo komunikační technologie získá přístup k dětské pornografii.
+>
+> (3) Kdo vyrobí, doveze, vyveze, proveze, nabídne, učiní veřejně přístupným, zprostředkuje, uvede do oběhu, prodá nebo jinak jinému opatří fotografické, filmové, počítačové, elektronické nebo jiné pornografické dílo, které zobrazuje nebo jinak využívá dítě nebo osobu, jež se jeví být dítětem, anebo
+> kdo kořistí z takového pornografického díla,
+> bude potrestán odnětím svobody na šest měsíců až tři léta, zákazem činnosti nebo propadnutím věci.
+>
+> (4) Odnětím svobody na dvě léta až šest let nebo propadnutím majetku bude pachatel potrestán, spáchá-li čin uvedený v odstavci 3
+>
+> - a) jako člen organizované skupiny,
+>
+> - b) tiskem, filmem, rozhlasem, televizí, veřejně přístupnou počítačovou sítí nebo jiným obdobně účinným způsobem, nebo
+>
+> - c) v úmyslu získat pro sebe nebo pro jiného značný prospěch.
+>
+> (5) Odnětím svobody na tři léta až osm let nebo propadnutím majetku bude pachatel potrestán, spáchá-li čin uvedený v odstavci 3
+>
+> - a) jako člen organizované skupiny působící ve více státech, nebo
+>
+> - b) v úmyslu získat pro sebe nebo pro jiného prospěch velkého rozsahu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=43e4d700f7f7288964ae -->
+
 ## § 193 — Zneužití dítěte k výrobě pornografie
 
 ### Pojem
@@ -313,6 +947,64 @@ V praxi často kumulace.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=08374ee453b918a61060 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 193 — Zneužití dítěte k výrobě pornografie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> (1) Kdo přiměje, zjedná, najme, zláká, svede nebo zneužije dítě k výrobě pornografického díla nebo kořistí z účasti dítěte na takovém pornografickém díle, bude potrestán odnětím svobody na jeden rok až pět let.
+>
+> (2) Odnětím svobody na dvě léta až šest let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) jako člen organizované skupiny, nebo
+>
+> - b) v úmyslu získat pro sebe nebo pro jiného značný prospěch.
+>
+> (3) Odnětím svobody na tři léta až osm let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) jako člen organizované skupiny působící ve více státech, nebo
+>
+> - b) v úmyslu získat pro sebe nebo pro jiného prospěch velkého rozsahu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=08374ee453b918a61060 -->
+
 ## § 193a — Účast na pornografickém představení s dítětem
 
 ### Pojem
@@ -324,6 +1016,52 @@ Sazba: až 2 roky.
 Trestá se **konzument**, kteří se účastní *live* pornografického vystoupení s dítětem (typicky **live-streamingu**, ale i fyzických show). Reakce na **child sexual exploitation** prostřednictvím live-streamů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6e076214be8b9e009662 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 193a — Účast na pornografickém představení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> Kdo se účastní pornografického představení nebo jiného obdobného vystoupení, ve kterém účinkuje dítě, bude potrestán odnětím svobody až na dvě léta.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6e076214be8b9e009662 -->
 
 ## § 193b — Grooming (navazování nedovolených kontaktů s dítětem)
 
@@ -352,6 +1090,52 @@ Pachatel se kontaktuje s dítětem přes sociální síť (Instagram, Snapchat, 
 **Čl. 23 Lanzarotské úmluvy** — *solicitation of children for sexual purposes*. Důležité pro online ochranu dětí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=89ff0c345f81cc8aeba5 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+### Revizní doplnění k § 193b — Navazování nedovolených kontaktů s dítětem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+#### Znění ustanovení
+
+> Kdo navrhne setkání dítěti mladšímu patnácti let v úmyslu spáchat trestný čin podle § 187 odst. 1, [[#§ 192|§ 192]], [[#§ 193|193]], § 202 odst. 3 nebo jiný sexuálně motivovaný trestný čin, bude potrestán odnětím svobody až na dvě léta.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 187, § 192, § 193, § 202
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=89ff0c345f81cc8aeba5 -->
 
 ## Shrnutí Hlavy III
 

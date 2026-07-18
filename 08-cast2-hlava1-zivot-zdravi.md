@@ -71,6 +71,78 @@ Klíčové rozhodnutí: NS sp. zn. 7 Tdo 425/2014 — kritéria pro odlišení.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cbaf85d431a4e49d5620 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 140 — Vražda
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo jiného úmyslně usmrtí, bude potrestán odnětím svobody na deset až osmnáct let.
+>
+> (2) Kdo jiného úmyslně usmrtí s rozmyslem nebo po předchozím uvážení, bude potrestán odnětím svobody na dvanáct až dvacet let.
+>
+> (3) Odnětím svobody na patnáct až dvacet let nebo výjimečným trestem bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]]
+>
+> - a) na dvou nebo více osobách,
+>
+> - b) na těhotné ženě,
+>
+> - c) na dítěti mladším patnácti let,
+>
+> - d) na úřední osobě při výkonu nebo pro výkon její pravomoci,
+>
+> - e) na svědkovi, znalci nebo tlumočníkovi v souvislosti s výkonem jejich povinnosti,
+>
+> - f) na zdravotnickém pracovníkovi při výkonu zdravotnického zaměstnání nebo povolání směřujícího k záchraně života nebo ochraně zdraví, nebo na jiném, který plnil svoji obdobnou povinnost při ochraně života, zdraví nebo majetku vyplývající z jeho zaměstnání, povolání, postavení nebo funkce nebo uloženou mu podle zákona,
+>
+> - g) na jiném pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob,
+>
+> - h) opětovně,
+>
+> - i) zvlášť surovým nebo trýznivým způsobem, nebo
+>
+> - j) v úmyslu získat pro sebe nebo pro jiného majetkový prospěch nebo ve snaze zakrýt nebo usnadnit jiný trestný čin nebo z jiné zavrženíhodné pohnutky.
+>
+> (4) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cbaf85d431a4e49d5620 -->
+
 ### § 141 — Zabití
 
 > „Kdo jiného úmyslně usmrtí v silném rozrušení ze strachu, úleku, zmatku nebo jiného omluvitelného hnutí mysli anebo v důsledku předchozího zavrženíhodného jednání poškozeného, bude potrestán trestem odnětí svobody na tři léta až deset let."
@@ -97,6 +169,60 @@ Zabití je **mírnější forma vraždy** — pachatel jednal **úmyslně**, ale
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=eb8a75db926e13e61f60 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 141 — Zabití
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo jiného úmyslně usmrtí v silném rozrušení ze strachu, úleku, zmatku nebo jiného omluvitelného hnutí mysli anebo v důsledku předchozího zavrženíhodného jednání poškozeného, bude potrestán trestem odnětí svobody na tři léta až deset let.
+>
+> (2) Odnětím svobody na pět až patnáct let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) na dvou nebo více osobách,
+>
+> - b) na těhotné ženě, nebo
+>
+> - c) na dítěti mladším patnácti let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eb8a75db926e13e61f60 -->
+
 ### § 142 — Vražda novorozeného dítěte matkou
 
 > „Matka, která v rozrušení způsobeném porodem úmyslně usmrtí při porodu nebo bezprostředně po něm své novorozené dítě, bude potrestána odnětím svobody na tři léta až osm let."
@@ -114,6 +240,52 @@ Zabití je **mírnější forma vraždy** — pachatel jednal **úmyslně**, ale
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0593863faf8a0aee593d generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 142 — Vražda novorozeného dítěte matkou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Matka, která v rozrušení způsobeném porodem úmyslně usmrtí při porodu nebo bezprostředně po něm své novorozené dítě, bude potrestána odnětím svobody na tři léta až osm let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0593863faf8a0aee593d -->
+
 ### § 143 — Usmrcení z nedbalosti
 
 #### Základní SP (odst. 1)
@@ -128,6 +300,58 @@ Sazba **až 3 roky** nebo **zákaz činnosti** (typicky řidičského oprávněn
 Vědomá vs. nevědomá nedbalost (§ 16) je rozhodující pro výši trestu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0d9875180dfd71310e18 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 143 — Usmrcení z nedbalosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo jinému z nedbalosti způsobí smrt, bude potrestán odnětím svobody až na tři léta nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na jeden rok až šest let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 proto, že porušil důležitou povinnost vyplývající z jeho zaměstnání, povolání, postavení nebo funkce nebo uloženou mu podle zákona.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 proto, že hrubě porušil zákony o ochraně životního prostředí nebo zákony o bezpečnosti práce nebo dopravy anebo hygienické zákony.
+>
+> (4) Odnětím svobody na tři léta až deset let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 3 smrt nejméně dvou osob.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0d9875180dfd71310e18 -->
 
 ### § 144 — Účast na sebevraždě
 
@@ -149,6 +373,62 @@ Vyšší sazby (2—8 let, 5—12 let) při:
 Klasický právní problém: **asistované umírání**. V ČR aktivní eutanazie není povolena. Pomoc k sebevraždě (asistovaná sebevražda) = trestná podle § 144. *Diskuse o legislativní změně je živá, ale TZ momentálně neuznává.*
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=20329dffbd3b9935655b generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 144 — Účast na sebevraždě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo jiného pohne k sebevraždě nebo jinému k sebevraždě pomáhá, bude potrestán, došlo-li alespoň k pokusu sebevraždy, odnětím svobody až na tři léta.
+>
+> (2) Odnětím svobody na dvě léta až osm let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) na dítěti,
+>
+> - b) na těhotné ženě, nebo
+>
+> - c) na jiném pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob.
+>
+> (3) Odnětím svobody na pět až dvanáct let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 na dítěti mladším patnácti let nebo na osobě stižené duševní poruchou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=20329dffbd3b9935655b -->
 
 ## DÍL 2 — Trestné činy proti zdraví
 
@@ -174,6 +454,74 @@ Sazba **8—16 let** — **smrt poškozeného**. Klíč: pachatel úmyslně cht�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=40898e7feab9c2bdb58a generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 145 — Těžké ublížení na zdraví
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo jinému úmyslně způsobí těžkou újmu na zdraví, bude potrestán odnětím svobody na tři léta až deset let.
+>
+> (2) Odnětím svobody na pět až dvanáct let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) na dvou nebo více osobách,
+>
+> - b) na těhotné ženě,
+>
+> - c) na dítěti mladším patnácti let,
+>
+> - d) na svědkovi, znalci nebo tlumočníkovi v souvislosti s výkonem jejich povinnosti,
+>
+> - e) na zdravotnickém pracovníkovi při výkonu zdravotnického zaměstnání nebo povolání směřujícího k záchraně života nebo ochraně zdraví, nebo na jiném, který plnil svoji obdobnou povinnost při ochraně života, zdraví nebo majetku vyplývající z jeho zaměstnání, povolání, postavení nebo funkce nebo uloženou mu podle zákona,
+>
+> - f) na jiném pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob,
+>
+> - g) opětovně nebo poté, co spáchal jiný zvlášť závažný zločin spojený s úmyslným způsobením těžké újmy na zdraví nebo smrti nebo jeho pokus, nebo
+>
+> - h) ze zavrženíhodné pohnutky.
+>
+> (3) Odnětím svobody na osm až šestnáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt.
+>
+> (4) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=40898e7feab9c2bdb58a -->
+
 ### § 146 — Ublížení na zdraví
 
 #### Pojem
@@ -192,6 +540,68 @@ Sazba: **6 měsíců — 3 roky**.
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7bd265adad0617146cb8 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 146 — Ublížení na zdraví
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo jinému úmyslně ublíží na zdraví, bude potrestán odnětím svobody na šest měsíců až tři léta.
+>
+> (2) Odnětím svobody na jeden rok až pět let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1
+>
+> - a) na těhotné ženě,
+>
+> - b) na dítěti mladším patnácti let,
+>
+> - c) na svědkovi, znalci nebo tlumočníkovi v souvislosti s výkonem jejich povinnosti,
+>
+> - d) na zdravotnickém pracovníkovi při výkonu zdravotnického zaměstnání nebo povolání směřujícího k záchraně života nebo ochraně zdraví, nebo na jiném, který plnil svoji obdobnou povinnost při ochraně života, zdraví nebo majetku vyplývající z jeho zaměstnání, povolání, postavení nebo funkce nebo uloženou mu podle zákona, nebo
+>
+> - e) na jiném pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví.
+>
+> (4) Odnětím svobody na pět až deset let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7bd265adad0617146cb8 -->
+
 ### § 146a — Ublížení na zdraví z omluvitelné pohnutky
 
 #### Privilegovaná SP
@@ -203,6 +613,66 @@ Analogie k § 141 (zabití) pro úmyslné ublížení:
 - **Odst. 5** (2—8 let): smrt.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4e66f08ae7428db28733 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 146a — Ublížení na zdraví z omluvitelné pohnutky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo jinému úmyslně způsobí ublížení na zdraví v silném rozrušení ze strachu, úleku, zmatku nebo jiného omluvitelného hnutí mysli anebo v důsledku předchozího zavrženíhodného jednání poškozeného, bude potrestán trestem odnětí svobody až na jeden rok.
+>
+> (2) Odnětím svobody až na tři léta bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví.
+>
+> (3) Kdo jinému úmyslně způsobí těžkou újmu na zdraví v silném rozrušení ze strachu, úleku, zmatku nebo jiného omluvitelného hnutí mysli anebo v důsledku předchozího zavrženíhodného jednání poškozeného, bude potrestán trestem odnětí svobody až na čtyři léta.
+>
+> (4) Odnětím svobody na jeden rok až šest let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 3 na dvou nebo více osobách,
+>
+> - b) spáchá-li takový čin na těhotné ženě, nebo
+>
+> - c) spáchá-li takový čin na dítěti mladším patnácti let.
+>
+> (5) Odnětím svobody na dvě léta až osm let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 nebo [[#§ 3|3]] smrt.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4e66f08ae7428db28733 -->
 
 ### § 147—148 — Nedbalostní ublížení a těžké ublížení
 
@@ -222,6 +692,104 @@ Analogie k § 141 (zabití) pro úmyslné ublížení:
 - Smrt → § 143 (usmrcení z nedbalosti).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f0caee909f1c4f351b4b generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 147 — Těžké ublížení na zdraví z nedbalosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo jinému z nedbalosti způsobí těžkou újmu na zdraví, bude potrestán odnětím svobody až na dvě léta nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na šest měsíců až čtyři léta bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 proto, že porušil důležitou povinnost vyplývající z jeho zaměstnání, povolání, postavení nebo funkce nebo uloženou mu podle zákona.
+>
+> (3) Kdo z nedbalosti způsobí těžkou újmu na zdraví nejméně dvou osob proto, že hrubě porušil zákony o ochraně životního prostředí nebo zákony o bezpečnosti práce nebo dopravy anebo hygienické zákony, bude potrestán odnětím svobody na dvě léta až osm let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f0caee909f1c4f351b4b -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=2079323ae491367215f9 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 148 — Ublížení na zdraví z nedbalosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo jinému z nedbalosti ublíží na zdraví tím, že poruší důležitou povinnost vyplývající z jeho zaměstnání, povolání, postavení nebo funkce nebo uloženou mu podle zákona, bude potrestán odnětím svobody až na jeden rok nebo zákazem činnosti.
+>
+> (2) Kdo z nedbalosti způsobí ublížení na zdraví nejméně dvou osob proto, že hrubě porušil zákony o ochraně životního prostředí nebo zákony o bezpečnosti práce nebo dopravy anebo hygienické zákony, bude potrestán odnětím svobody až na tři léta.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2079323ae491367215f9 -->
 
 ## DÍL 3 — Trestné činy ohrožující život nebo zdraví
 
@@ -247,6 +815,78 @@ Týká se zejména **vyšetřovacích metod**, výslechů, zacházení s vězni,
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cdd8f444c306f8fe9ba3 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 149 — Mučení a jiné nelidské a kruté zacházení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo mučením nebo jiným nelidským a krutým zacházením v souvislosti s výkonem pravomoci orgánu státní správy, územní samosprávy, soudu nebo jiného orgánu veřejné moci působí jinému tělesné nebo duševní utrpení, bude potrestán odnětím svobody na šest měsíců až pět let.
+>
+> (2) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 jako úřední osoba,
+>
+> - b) spáchá-li takový čin na svědkovi, znalci nebo tlumočníkovi v souvislosti s výkonem jejich povinnosti,
+>
+> - c) spáchá-li takový čin na jiném pro jeho skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro jeho skutečnou nebo domnělou příslušnost k jiné skupině osob,
+>
+> - d) spáchá-li takový čin nejméně se dvěma osobami, nebo
+>
+> - e) spáchá-li takový čin opětovně.
+>
+> (3) Odnětím svobody na pět až dvanáct let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 na těhotné ženě,
+>
+> - b) spáchá-li takový čin na dítěti mladším patnácti let,
+>
+> - c) spáchá-li takový čin zvlášť surovým nebo trýznivým způsobem, nebo
+>
+> - d) způsobí-li takovým činem těžkou újmu na zdraví.
+>
+> (4) Odnětím svobody na osm až osmnáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt.
+>
+> (5) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cdd8f444c306f8fe9ba3 -->
+
 ### § 150 — Neposkytnutí pomoci
 
 #### Pojem (odst. 1)
@@ -264,6 +904,54 @@ Neposkytnutí pomoci je často chápáno jako **opomenutí** — pachatel měl z
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4740458a2bfe491263fa generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 150 — Neposkytnutí pomoci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo osobě, která je v nebezpečí smrti nebo jeví známky vážné poruchy zdraví nebo jiného vážného onemocnění, neposkytne potřebnou pomoc, ač tak může učinit bez nebezpečí pro sebe nebo jiného, bude potrestán odnětím svobody až na dvě léta.
+>
+> (2) Kdo osobě, která je v nebezpečí smrti nebo jeví známky vážné poruchy zdraví nebo vážného onemocnění, neposkytne potřebnou pomoc, ač je podle povahy svého zaměstnání povinen takovou pomoc poskytnout, bude potrestán odnětím svobody až na tři léta nebo zákazem činnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4740458a2bfe491263fa -->
+
 ### § 151 — Neposkytnutí pomoci řidičem dopravního prostředku
 
 #### Speciální SP
@@ -275,6 +963,52 @@ Neposkytnutí pomoci je často chápáno jako **opomenutí** — pachatel měl z
 - I řidič, který nehodu nezpůsobil, ale účastnil se, musí pomoci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=af1f3303c748efd042c1 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 151 — Neposkytnutí pomoci řidičem dopravního prostředku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Řidič dopravního prostředku, který po dopravní nehodě, na níž měl účast, neposkytne osobě, která při nehodě utrpěla újmu na zdraví, potřebnou pomoc, ač tak může učinit bez nebezpečí pro sebe nebo jiného, bude potrestán odnětím svobody až na pět let nebo zákazem činnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=af1f3303c748efd042c1 -->
 
 ### § 152—153 — Šíření nakažlivé lidské nemoci (úmyslné a nedbalostní)
 
@@ -294,12 +1028,184 @@ V letech 2020—2022 mnoho stíhání podle § 152—153 — porušení karanté
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=65d0b975761be88633f6 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 152 — Šíření nakažlivé lidské nemoci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo úmyslně způsobí nebo zvýší nebezpečí zavlečení nebo rozšíření nakažlivé nemoci u lidí, bude potrestán odnětím svobody na šest měsíců až tři léta, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 jako člen organizované skupiny,
+>
+> - b) spáchá-li takový čin za stavu ohrožení státu nebo za válečného stavu, za živelní pohromy nebo jiné události vážně ohrožující život nebo zdraví lidí, veřejný pořádek nebo majetek,
+>
+> - c) poruší-li takovým činem důležitou povinnost vyplývající z jeho zaměstnání, povolání, postavení nebo funkce nebo uloženou mu podle zákona, nebo
+>
+> - d) způsobí-li takovým činem těžkou újmu na zdraví.
+>
+> (3) Odnětím svobody na tři léta až deset let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví nejméně dvou osob nebo smrt.
+>
+> (4) Odnětím svobody na pět až dvanáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt nejméně dvou osob.
+>
+> (5) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=65d0b975761be88633f6 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=54fb56f176eac759d671 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 153 — Šíření nakažlivé lidské nemoci z nedbalosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo z nedbalosti způsobí nebo zvýší nebezpečí zavlečení nebo rozšíření nakažlivé nemoci u lidí, bude potrestán odnětím svobody až na jeden rok, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Odnětím svobody na šest měsíců až tři léta bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 za stavu ohrožení státu nebo za válečného stavu, za živelní pohromy nebo jiné události vážně ohrožující život nebo zdraví lidí, veřejný pořádek nebo majetek,
+>
+> - b) poruší-li takovým činem důležitou povinnost vyplývající z jeho zaměstnání, povolání, postavení nebo funkce nebo uloženou mu podle zákona, nebo
+>
+> - c) způsobí-li takovým činem těžkou újmu na zdraví.
+>
+> (3) Odnětím svobody na jeden rok až šest let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 smrt, nebo
+>
+> - b) způsobí-li činem uvedeným v odstavci 2 písm. b) těžkou újmu na zdraví.
+>
+> (4) Odnětím svobody na dvě léta až osm let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 3 proto, že hrubě porušil zákony na ochranu veřejného zdraví.
+>
+> (5) Odnětím svobody na tři léta až deset let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt nejméně dvou osob proto, že hrubě porušil předpisy na ochranu veřejného zdraví.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=54fb56f176eac759d671 -->
+
 ### § 155 — Ohrožení pohlavní nemocí
 **I z nedbalosti** — pachatel vystaví jiného nebezpečí pohlavní nákazy. Sazba **až 1 rok**.
 
 V současné praxi spíše vzácné stíhání. Klíčové u HIV/AIDS — pachatel věděl o své diagnóze a měl nechráněný styk bez sdělení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bc11e0dbfb61a50d0eb4 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 155 — Ohrožení pohlavní nemocí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Kdo jiného vydá, byť i z nedbalosti, nebezpečí nákazy pohlavní nemocí, bude potrestán odnětím svobody až na jeden rok.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bc11e0dbfb61a50d0eb4 -->
 
 ### § 156—157 — Ohrožování zdraví závadnými potravinami
 
@@ -314,6 +1220,132 @@ V současné praxi spíše vzácné stíhání. Klíčové u HIV/AIDS — pachat
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6bc320ecca1b312c7e39 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 156 — Ohrožování zdraví závadnými potravinami a jinými předměty
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo v rozporu s jiným právním předpisem má na prodej nebo pro tento účel vyrobí anebo sobě nebo jinému opatří úmyslně potraviny nebo jiné předměty, jejichž požití nebo užití k obvyklému účelu je nebezpečné lidskému zdraví, bude potrestán odnětím svobody až na dvě léta, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 jako člen organizované skupiny,
+>
+> - b) spáchá-li takový čin za stavu ohrožení státu nebo za válečného stavu, za živelní pohromy nebo jiné události vážně ohrožující život nebo zdraví lidí, veřejný pořádek nebo majetek,
+>
+> - c) poruší-li takovým činem důležitou povinnost vyplývající z jeho zaměstnání, povolání, postavení nebo funkce nebo uloženou mu podle zákona, nebo
+>
+> - d) způsobí-li takovým činem těžkou újmu na zdraví.
+>
+> (3) Odnětím svobody na tři léta až deset let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví nejméně dvou osob nebo smrt.
+>
+> (4) Odnětím svobody na pět až dvanáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt nejméně dvou osob.
+>
+> (5) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6bc320ecca1b312c7e39 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=693301185a6d4fee18d0 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 157 — Ohrožování zdraví závadnými potravinami a jinými předměty z nedbalosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo v rozporu s jiným právním předpisem má na prodej nebo pro tento účel vyrobí anebo sobě nebo jinému opatří z nedbalosti potraviny nebo jiné předměty, jejichž požití nebo užití k obvyklému účelu je nebezpečné lidskému zdraví, bude potrestán odnětím svobody až na šest měsíců, zákazem činnosti nebo propadnutím věci.
+>
+> (2) Odnětím svobody až na dvě léta bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 za stavu ohrožení státu nebo za válečného stavu, za živelní pohromy nebo jiné události vážně ohrožující život nebo zdraví lidí, veřejný pořádek nebo majetek,
+>
+> - b) poruší-li takovým činem důležitou povinnost vyplývající z jeho zaměstnání, povolání, postavení nebo funkce nebo uloženou mu podle zákona, nebo
+>
+> - c) způsobí-li takovým činem těžkou újmu na zdraví.
+>
+> (3) Odnětím svobody na jeden rok až pět let bude pachatel potrestán,
+>
+> - a) způsobí-li činem uvedeným v odstavci 1 smrt, nebo
+>
+> - b) způsobí-li činem uvedeným v odstavci 2 písm. b) těžkou újmu na zdraví.
+>
+> (4) Odnětím svobody na dvě léta až osm let bude pachatel potrestán, spáchá-li čin uvedený v odstavci 3 písm. a) proto, že hrubě porušil hygienické nebo jiné zákony týkající se takových potravin nebo předmětů.
+>
+> (5) Odnětím svobody na tři léta až deset let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt nejméně dvou osob proto, že hrubě porušil hygienické nebo jiné zákony týkající se takových potravin nebo předmětů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=693301185a6d4fee18d0 -->
+
 ### § 158 — Rvačka
 
 #### Pojem
@@ -323,6 +1355,56 @@ V současné praxi spíše vzácné stíhání. Klíčové u HIV/AIDS — pachat
 **Kolektivní delikt** — odpovídají všichni účastníci, ne pouze ti, kdo způsobili konkrétní následek. Důležité: odst. 2 a 3 stanoví **objektivní odpovědnost za následek** — i účastník, který nezpůsobil přímo újmu, odpovídá za následek vzniklý ve rvačce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2c0814d241db2eebdfce generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 158 — Rvačka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo úmyslně ohrozí život nebo zdraví jiného tím, že se zúčastní rvačky, bude potrestán odnětím svobody až na jeden rok.
+>
+> (2) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán, je-li při činu uvedeném v odstavci 1 jinému způsobena těžká újma na zdraví.
+>
+> (3) Odnětím svobody na dvě léta až osm let bude pachatel potrestán, je-li při činu uvedeném v odstavci 1 jinému způsobena smrt.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2c0814d241db2eebdfce -->
 
 ## DÍL 4 — Trestné činy proti těhotenství ženy
 
@@ -343,6 +1425,72 @@ Závažný TČ: pachatel **bez souhlasu** těhotné ženy uměle přeruší jej�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8a98b706b0b41d3d4ca5 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 159 — Nedovolené přerušení těhotenství bez souhlasu těhotné ženy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo bez souhlasu těhotné ženy uměle přeruší její těhotenství, bude potrestán odnětím svobody na dvě léta až osm let.
+>
+> (2) Odnětím svobody na tři léta až deset let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 na ženě mladší osmnácti let,
+>
+> - b) spáchá-li takový čin za použití násilí, pohrůžky násilí nebo pohrůžky jiné těžké újmy,
+>
+> - c) spáchá-li takový čin zneužívaje tísně nebo závislosti těhotné ženy,
+>
+> - d) spáchá-li takový čin na ženě pro její skutečnou nebo domnělou rasu, příslušnost k etnické nebo sociální skupině, národnost, věk, pohlaví, sexuální orientaci, zdravotní postižení, politické přesvědčení, vyznání nebo proto, že je skutečně nebo domněle bez vyznání, anebo pro její skutečnou nebo domnělou příslušnost k jiné skupině osob,
+>
+> - e) spáchá-li takový čin opětovně, nebo
+>
+> - f) způsobí-li takovým činem těžkou újmu na zdraví.
+>
+> (3) Odnětím svobody na pět až dvanáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví nejméně dvou osob nebo smrt.
+>
+> (4) Odnětím svobody na osm až šestnáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt nejméně dvou osob.
+>
+> (5) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8a98b706b0b41d3d4ca5 -->
+
 ### § 160 — Nedovolené přerušení těhotenství **se souhlasem** ženy
 
 Pachatel přeruší těhotenství jinak než zákonným způsobem (zákon č. 66/1986 Sb. o umělém přerušení těhotenství — do 12. týdne, ze zdravotních důvodů do 24. týdne).
@@ -354,16 +1502,246 @@ Pachatel je obvykle **nelegální abortér** (lékař bez oprávnění, „kuchy
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9f0df0c14fc7acad578d generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 160 — Nedovolené přerušení těhotenství se souhlasem těhotné ženy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo se souhlasem těhotné ženy uměle přeruší její těhotenství jinak než způsobem přípustným podle zákona [[o umělém přerušení těhotenství|o umělém přerušení těhotenství]], bude potrestán odnětím svobody na jeden rok až pět let nebo zákazem činnosti.
+>
+> (2) Odnětím svobody na dvě léta až osm let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 na ženě mladší osmnácti let,
+>
+> - b) získá-li takovým činem pro sebe nebo pro jiného značný prospěch,
+>
+> - c) páchá-li takový čin soustavně, nebo
+>
+> - d) způsobí-li takovým činem těžkou újmu na zdraví.
+>
+> (3) Odnětím svobody na tři léta až deset let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví nejméně dvou osob nebo smrt.
+>
+> (4) Odnětím svobody na pět až dvanáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 smrt nejméně dvou osob.
+>
+> (5) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9f0df0c14fc7acad578d -->
+
 ### § 161 — Pomoc těhotné ženě k umělému přerušení těhotenství
 Pachatel **pomáhá** ženě, aby si sama přerušila těhotenství nebo aby šla k nelegálnímu abortérovi. Sazba **až 1 rok** (základ).
 
+
+<!-- LEGAL-REVISION:BEGIN id=0f663fa34995a99b5dd4 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 161 — Pomoc těhotné ženě k umělému přerušení těhotenství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo těhotné ženě pomáhá k tomu, aby
+>
+> - a) své těhotenství sama uměle přerušila, nebo
+>
+> - b) jiného požádala nebo jinému dovolila, aby jí bylo těhotenství uměle přerušeno jinak než způsobem přípustným podle zákona [[o umělém přerušení těhotenství|o umělém přerušení těhotenství]],
+>
+> bude potrestán odnětím svobody až na jeden rok.
+>
+> (2) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 vůči ženě mladší osmnácti let, nebo
+>
+> - b) přispěje-li takovým činem k těžké újmě na zdraví u těhotné ženy.
+>
+> (3) Odnětím svobody na jeden rok až šest let bude pachatel potrestán, přispěje-li činem uvedeným v odstavci 1 k smrti těhotné ženy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0f663fa34995a99b5dd4 -->
+
 ### § 162 — Svádění těhotné ženy
 Pachatel **přemlouvá** ženu k samostatnému/nelegálnímu přerušení. Sazba **až 2 roky** (základ).
+
+
+<!-- LEGAL-REVISION:BEGIN id=c37f951bba22d53c5df2 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 162 — Svádění těhotné ženy k umělému přerušení těhotenství
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo svádí těhotnou ženu k tomu, aby
+>
+> - a) své těhotenství sama uměle přerušila, nebo
+>
+> - b) jiného požádala nebo jinému dovolila, aby jí bylo těhotenství uměle přerušeno jinak než způsobem přípustným podle zákona [[o umělém přerušení těhotenství|o umělém přerušení těhotenství]],
+>
+> bude potrestán odnětím svobody až na dvě léta.
+>
+> (2) Odnětím svobody na šest měsíců až pět let bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 vůči ženě mladší osmnácti let,
+>
+> - b) spáchá-li takový čin zneužívaje tísně nebo závislosti těhotné ženy, nebo
+>
+> - c) přispěje-li takovým činem k těžké újmě na zdraví u těhotné ženy.
+>
+> (3) Odnětím svobody na jeden rok až šest let bude pachatel potrestán, přispěje-li činem uvedeným v odstavci 1 k smrti těhotné ženy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c37f951bba22d53c5df2 -->
 
 ### § 163 — Beztrestnost ženy
 **Klíčové společné ustanovení**: **těhotná žena sama není trestná** — ani jako pachatelka, ani jako návodkyně/pomocnice. Jde o **trestněprávní imunitu vlastní volby**.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d59ae1c14f9d1812880c generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 163 — Společné ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> Těhotná žena, která své těhotenství sama uměle přeruší nebo o to jiného požádá nebo mu to dovolí, není pro takový čin trestná, a to ani podle ustanovení o návodci a pomocníkovi.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d59ae1c14f9d1812880c -->
 
 ## DÍL 5 — TČ s lidskými tkáněmi, orgány, embryem, genomem
 
@@ -385,13 +1763,217 @@ Sazba: **2—8 let** (odst. 1).
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=94b8706a9b53acc5d623 generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 164 — Neoprávněné odebrání tkání a orgánů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo v rozporu s jiným právním předpisem provede jinému z jeho těla odběr tkáně, buňky nebo orgánu, bude potrestán odnětím svobody na dvě léta až osm let.
+>
+> (2) Stejně bude potrestán, kdo v rozporu s jiným právním předpisem pro sebe nebo pro jiného opatří, zprostředkuje, nabídne, doveze, vyveze nebo proveze odebranou lidskou tkáň, buňku nebo odebraný lidský orgán z těla živého člověka, anebo s takovou tkání, buňkou nebo orgánem jinak nakládá.
+>
+> (3) Odnětím svobody na pět až dvanáct let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] na dítěti,
+>
+> - b) spáchá-li takový čin za použití násilí, pohrůžky násilí nebo pohrůžky jiné těžké újmy,
+>
+> - c) spáchá-li takový čin zneužívaje tísně nebo závislosti,
+>
+> - d) spáchá-li takový čin na nejméně dvou osobách,
+>
+> - e) spáchá-li takový čin opětovně,
+>
+> - f) spáchá-li takový čin jako člen organizované skupiny,
+>
+> - g) způsobí-li takovým činem těžkou újmu na zdraví, nebo
+>
+> - h) získá-li takovým činem pro sebe nebo pro jiného značný prospěch.
+>
+> (4) Odnětím svobody na osm až šestnáct let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] na dítěti mladším patnácti let,
+>
+> - b) spáchá-li takový čin ve spojení s organizovanou skupinou působící ve více státech,
+>
+> - c) způsobí-li takovým činem smrt, nebo
+>
+> - d) získá-li takovým činem pro sebe nebo pro jiného prospěch velkého rozsahu.
+>
+> (5) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=94b8706a9b53acc5d623 -->
+
 ### § 165 — Nedovolené nakládání s tkáněmi a orgány
 Odběr **z těla mrtvého** nebo nakládání v rozporu se zákonem. Sazba: až 2 roky (základ), 2—8 let (kvalifikace).
+
+
+<!-- LEGAL-REVISION:BEGIN id=04873b7bd9534701e5cb generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 165 — Nedovolené nakládání s tkáněmi a orgány
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo v rozporu s jiným právním předpisem provede z těla mrtvého člověka odběr tkáně, buňky nebo orgánu, bude potrestán odnětím svobody až na dvě léta nebo zákazem činnosti.
+>
+> (2) Stejně bude potrestán, kdo v úmyslu obohatit sebe nebo jiného nakládá s odebranou lidskou tkání, buňkou nebo odebraným lidským orgánem v rozporu s jiným právním předpisem.
+>
+> (3) Odnětím svobody na jeden rok až pět let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] opětovně,
+>
+> - b) spáchá-li takový čin jako člen organizované skupiny, nebo
+>
+> - c) získá-li takovým činem pro sebe nebo pro jiného značný prospěch.
+>
+> (4) Odnětím svobody na dvě léta až osm let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) získá-li činem uvedeným v odstavci 1 nebo [[#§ 2|2]] pro sebe nebo pro jiného prospěch velkého rozsahu, nebo
+>
+> - b) spáchá-li takový čin ve spojení s organizovanou skupinou působící ve více státech.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=04873b7bd9534701e5cb -->
 
 ### § 166 — Odběr/transplantace za úplatu
 **Komerční transplantace** — kdo nabízí/slibuje/poskytuje úplatu za odběr nebo transplantaci. Sazba **až 5 let** (základ), 5—12 let (kvalifikace).
 
 Zákaz pochází z **etické zásady** mezinárodního transplantačního práva: lidský orgán **není komoditou**.
+
+
+<!-- LEGAL-REVISION:BEGIN id=7755fedacd3bc2c2bf3c generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 166 — Odběr tkáně, orgánu a provedení transplantace za úplatu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo v rozporu s jiným právním předpisem jinému nebo pro jiného nabídne, slíbí nebo poskytne úplatu za odběr tkáně nebo orgánu z jeho těla nebo za provedení transplantace, bude potrestán odnětím svobody až na pět let.
+>
+> (2) Stejně bude potrestán, kdo sám nebo prostřednictvím jiného v souvislosti s odběrem tkáně nebo orgánu nebo s provedením transplantace pro sebe nebo pro jiného žádá, přijme nebo si dá slíbit úplatu v rozporu s jiným právním předpisem.
+>
+> (3) Odnětím svobody na tři léta až deset let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] jako člen organizované skupiny,
+>
+> - b) dojde-li v souvislosti s takovým činem k těžké újmě na zdraví, nebo
+>
+> - c) je-li takový čin spáchán vůči dítěti.
+>
+> (4) Odnětím svobody na pět až dvanáct let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] ve spojení s organizovanou skupinou působící ve více státech,
+>
+> - b) dojde-li v souvislosti s takovým činem k smrti, nebo
+>
+> - c) spáchá-li takový čin vůči dítěti mladšímu patnácti let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7755fedacd3bc2c2bf3c -->
 
 ### § 167 — Nedovolené nakládání s lidským embryem a lidským genomem
 
@@ -410,6 +1992,84 @@ Sazba: až 3 roky (základ), 3—8 let / 5—12 let (kvalifikace).
 #### Příprava trestná (odst. 5)
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3be7231a262006840a1a generator=2026-07-17.4 source_sha256=079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb -->
+#### Revizní doplnění k § 167 — Nedovolené nakládání s lidským embryem a lidským genomem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2009/40-2009 Zákon trestní zákoník.md`; identifikátor verze: `SB-2009-00040_2026-01-01`; SHA-256: `079df4af0342632916828402b6310a8f5e1b18a33ac330b51a03343d9a8ccfbb`.
+
+##### Znění ustanovení
+
+> (1) Kdo v rozporu s jiným právním předpisem
+>
+> - a) použije pro výzkum lidské embryo nebo větší množství lidských embryonálních kmenových buněk nebo jejich linií,
+>
+> - b) doveze nebo vyveze lidské embryo nebo větší množství lidských embryonálních kmenových buněk nebo jejich linií, nebo
+>
+> - c) přenese lidský genom do buněk jiného živočišného druhu nebo naopak,
+>
+> bude potrestán odnětím svobody až na tři léta nebo zákazem činnosti.
+>
+> (2) Stejně bude potrestán,
+>
+> - a) kdo provádí zákroky směřující k vytvoření lidského embrya pro jiný účel než pro přenesení do ženského organizmu,
+>
+> - b) kdo přenese vytvořené lidské embryo do dělohy jiného živočišného druhu, nebo
+>
+> - c) kdo během výzkumu na lidských embryonálních kmenových buňkách provádí s těmito buňkami manipulace směřující k vytvoření nového lidského jedince (reprodukční klonování).
+>
+> (3) Odnětím svobody na tři léta až osm let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] jako člen organizované skupiny,
+>
+> - b) spáchá-li takový čin opětovně, nebo
+>
+> - c) získá-li takovým činem pro sebe nebo pro jiného značný prospěch.
+>
+> (4) Odnětím svobody na pět až dvanáct let nebo propadnutím majetku bude pachatel potrestán,
+>
+> - a) spáchá-li čin uvedený v odstavci 1 nebo [[#§ 2|2]] ve spojení s organizovanou skupinou působící ve více státech, nebo
+>
+> - b) získá-li takovým činem pro sebe nebo pro jiného prospěch velkého rozsahu.
+>
+> (5) Příprava je trestná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] V repozitáři nebyl nalezen místní soubor důvodové zprávy; žádná pasáž proto nebyla doplněna.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3be7231a262006840a1a -->
 
 ## Shrnutí Hlavy I
 
